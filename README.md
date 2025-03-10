@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![khanhayf's 42 stats](https://badge.mediaplus.ma/darkblue/khanhayf)](https://github.com/kanhay)
+[![khanhayf's 42 stats](https://badge.mediaplus.ma/kettlebells/khanhayf)](https://github.com/kanhay)
 <!--
 **kanhay/kanhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
