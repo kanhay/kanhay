@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there 👋
+[![khanhayf's 42 stats](https://badge.mediaplus.ma/kettlebells/khanhayf)](https://github.com/kanhay)
 I'm Khadija Anhayfou, a student at 1337 (42 Network), where I am honing my skills in software development with a focus on system-level programming. My repositories showcase my work on various projects that are part of the 1337 Common Core curriculum. These include foundational programming concepts such as:
 
 Libft: A personal implementation of the C standard library, focusing on key functions and memory management.
@@ -16,7 +17,6 @@ Webserv: A project to implement a basic web server, delving into HTTP requests, 
 Through these projects, I aim to gain a deeper understanding of computer science principles, including algorithms, data structures, memory management, and low-level programming. I’m passionate about learning, problem-solving, and collaborating with others on exciting challenges.
 
 Feel free to explore my work, and reach out if you're interested in discussing any projects!
-[![khanhayf's 42 stats](https://badge.mediaplus.ma/kettlebells/khanhayf)](https://github.com/kanhay)
 <!--
 **kanhay/kanhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
