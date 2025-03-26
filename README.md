@@ -2,7 +2,7 @@
 ### Hi there 👋
 I'm Khadija Anhayfou, my repositories showcase my work on various projects that are part of the 1337 Common Core curriculum. These include foundational programming concepts such as:
 
-Libft: A personal implementation of the C standard library, focusing on key functions and memory management.  
+- **Libft:** A personal implementation of the C standard library, focusing on key functions and memory management.    
 Get Next Line: A function to read a line from a file descriptor, mastering memory allocation and file handling.  
 Printf: A custom implementation of the printf function, working with variable arguments and string formatting.  
 Push Swap: A sorting algorithm project using stacks, testing both my problem-solving and algorithm design skills.  
