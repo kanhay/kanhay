@@ -12,7 +12,9 @@ Born2beroot: A project designed to set up a virtual machine (VM) and deploy a Li
 Philosophers: A multithreading project inspired by the dining philosophers problem, tackling synchronization, concurrency, and deadlock prevention.
 Minishell: A mini version of a Unix shell, enhancing my knowledge of process control, piping, and shell scripting.
 NetPractice: A network-based project where I explored sockets, server-client communication, and protocols.
-Webserv: A project to implement a basic web server, delving into HTTP requests, server responses, and network communication.
+IRC: A project to implement an Internet Relay Chat (IRC) server, exploring networking, message protocols, and client-server interactions.
+Inception: A project focused on Docker and containerization, setting up multiple services using Docker Compose to enhance understanding of system orchestration and virtualization.
+ft_transcendence: A full-stack web development project involving real-time multiplayer gaming, authentication, database management, and web sockets, integrating both frontend and backend technologies.
 
 Through these projects, I aim to gain a deeper understanding of computer science principles, including algorithms, data structures, memory management, and low-level programming. I’m passionate about learning, problem-solving, and collaborating with others on exciting challenges.
 
