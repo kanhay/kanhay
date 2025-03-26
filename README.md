@@ -1,6 +1,6 @@
 [![khanhayf's 42 stats](https://badge.mediaplus.ma/kettlebells/khanhayf)](https://github.com/kanhay)
 ### Hi there 👋
-I'm Khadija Anhayfou, a student at 1337 (42 Network), where I am honing my skills in software development with a focus on system-level programming. My repositories showcase my work on various projects that are part of the 1337 Common Core curriculum. These include foundational programming concepts such as:
+I'm Khadija Anhayfou, my repositories showcase my work on various projects that are part of the 1337 Common Core curriculum. These include foundational programming concepts such as:
 
 Libft: A personal implementation of the C standard library, focusing on key functions and memory management.
 Get Next Line: A function to read a line from a file descriptor, mastering memory allocation and file handling.
@@ -15,8 +15,6 @@ NetPractice: A network-based project where I explored sockets, server-client com
 IRC: A project to implement an Internet Relay Chat (IRC) server, exploring networking, message protocols, and client-server interactions.
 Inception: A project focused on Docker and containerization, setting up multiple services using Docker Compose to enhance understanding of system orchestration and virtualization.
 ft_transcendence: A full-stack web development project involving real-time multiplayer gaming, authentication, database management, and web sockets, integrating both frontend and backend technologies.
-
-Through these projects, I aim to gain a deeper understanding of computer science principles, including algorithms, data structures, memory management, and low-level programming. I’m passionate about learning, problem-solving, and collaborating with others on exciting challenges.
 
 Feel free to explore my work, and reach out if you're interested in discussing any projects!
 <!--
